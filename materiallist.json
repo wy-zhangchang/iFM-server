@@ -1,0 +1,86 @@
+[
+    {
+        "id": 996,
+        "recordsFiltered": 2,
+        "data": [
+            {
+                "id": 460,
+                "name": "DEMO",
+                "is_ordered": 0,
+                "rfid_sign": null,
+                "specification": "DEMO",
+                "brand": "DEMO",
+                "unit": "DEMO"
+            },
+            {
+                "id": 79,
+                "name": "大灯",
+                "is_ordered": 0,
+                "rfid_sign": null,
+                "specification": "100",
+                "brand": "未确定",
+                "unit": "1"
+            }
+        ]
+    },
+    {
+        "id": 1111,
+        "recordsFiltered": 1,
+        "data": [
+            {
+                "id": 163,
+                "name": "LED防水电源",
+                "is_ordered": 0,
+                "rfid_sign": null,
+                "specification": "普通",
+                "brand": "未确定",
+                "unit": null
+            }
+        ]
+    },
+    {
+        "id": 1112,
+        "recordsFiltered": 1,
+        "data": [
+            {
+                "id": 164,
+                "name": "LED驱动电源",
+                "is_ordered": 0,
+                "rfid_sign": null,
+                "specification": "普通",
+                "brand": "未确定",
+                "unit": null
+            }
+        ]
+    },
+    {
+        "id": 1113,
+        "recordsFiltered": 1,
+        "data": [
+            {
+                "id": 165,
+                "name": "LGOG电源",
+                "is_ordered": 0,
+                "rfid_sign": null,
+                "specification": "普通",
+                "brand": "未确定",
+                "unit": null
+            }
+        ]
+    },
+    {
+        "id": 1114,
+        "recordsFiltered": 1,
+        "data": [
+            {
+                "id": 166,
+                "name": "LOGO",
+                "is_ordered": 0,
+                "rfid_sign": null,
+                "specification": "普通",
+                "brand": "未确定",
+                "unit": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,2112 @@
+[
+    {
+        "id": 136,
+        "name": "电气系统",
+        "objects": [
+            {
+                "id": 996,
+                "name": "配电柜",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1111,
+                "name": "LED防水电源",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1112,
+                "name": "LED驱动电源",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1113,
+                "name": "LGOG电源",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1114,
+                "name": "LOGO",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1115,
+                "name": "五号电池",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1116,
+                "name": "五孔插座",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1117,
+                "name": "五孔面板",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1118,
+                "name": "交流接触器",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1119,
+                "name": "人体感应开关",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1120,
+                "name": "双联开关",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1121,
+                "name": "变压器",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1122,
+                "name": "微波炉",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1123,
+                "name": "感应开关",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1124,
+                "name": "扎带",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1125,
+                "name": "扶梯疏齿板",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1126,
+                "name": "护套线",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1127,
+                "name": "换气扇",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1128,
+                "name": "接线盒子",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1129,
+                "name": "接触器",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1130,
+                "name": "控制器",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1131,
+                "name": "插头",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1132,
+                "name": "插座",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1133,
+                "name": "插拔管",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1134,
+                "name": "插排",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1135,
+                "name": "插销",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1136,
+                "name": "支架",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1137,
+                "name": "整流器",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1138,
+                "name": "时控开关",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1139,
+                "name": "时间继电器",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1140,
+                "name": "暖风机",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1141,
+                "name": "漏电开关",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1142,
+                "name": "电动阀",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1143,
+                "name": "电工胶带",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1144,
+                "name": "电机",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1145,
+                "name": "电池",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1146,
+                "name": "电源",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1147,
+                "name": "电源开关",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1148,
+                "name": "电笔",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1149,
+                "name": "电管电缆",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1150,
+                "name": "电线",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1151,
+                "name": "电缆线",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1152,
+                "name": "电胶带",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1153,
+                "name": "空气开关",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1154,
+                "name": "绝缘胶布",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1155,
+                "name": "继电器",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1156,
+                "name": "缆线",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1157,
+                "name": "网络插座面板",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1158,
+                "name": "网络线",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1159,
+                "name": "胶带",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1160,
+                "name": "起电电容",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1161,
+                "name": "辅料",
+                "objecttype": 136,
+                "is_consumable": 1
+            },
+            {
+                "id": 1162,
+                "name": "镇流器",
+                "objecttype": 136,
+                "is_consumable": 1
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "name": "道具",
+        "objects": []
+    },
+    {
+        "id": 138,
+        "name": "暖通空调系统",
+        "objects": []
+    },
+    {
+        "id": 139,
+        "name": "土木装潢系统",
+        "objects": []
+    },
+    {
+        "id": 140,
+        "name": "消防系统",
+        "objects": []
+    },
+    {
+        "id": 141,
+        "name": "垂直运输系统",
+        "objects": []
+    },
+    {
+        "id": 144,
+        "name": "门和锁",
+        "objects": [
+            {
+                "id": 1028,
+                "name": " 门锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1029,
+                "name": "不锈钢包边门框",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1030,
+                "name": "不锈钢包门套",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1031,
+                "name": "不锈钢锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1032,
+                "name": "不锈钢门板",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1033,
+                "name": "不锈钢门锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1034,
+                "name": "信箱锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1035,
+                "name": "卷帘门开关控制盒",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1036,
+                "name": "卷帘门钥匙盒",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1037,
+                "name": "卷闸门控制箱",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1038,
+                "name": "员工锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1039,
+                "name": "地脚锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1040,
+                "name": "地锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1041,
+                "name": "大门门碰",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1042,
+                "name": "拉手门锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1043,
+                "name": "暗锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1044,
+                "name": "柜锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1045,
+                "name": "柜门合页",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1046,
+                "name": "柜门铰",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1047,
+                "name": "水晶卷帘门",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1048,
+                "name": "玻璃门锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1049,
+                "name": "球形锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1050,
+                "name": "电箱按扣锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1051,
+                "name": "钢化玻璃地锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1052,
+                "name": "钢化玻璃大拉锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1053,
+                "name": "钢锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1054,
+                "name": "钩锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1055,
+                "name": "链条锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1056,
+                "name": "锁具",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1057,
+                "name": "锁头",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1058,
+                "name": "锁心",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1059,
+                "name": "锁舌",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1060,
+                "name": "锁芯",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1061,
+                "name": "长圆锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1062,
+                "name": "门吸",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1063,
+                "name": "门夹地锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1064,
+                "name": "门帘锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1065,
+                "name": "门把手",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1066,
+                "name": "门暗扣",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1067,
+                "name": "门条",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1068,
+                "name": "门禁按钮开关",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1069,
+                "name": "门销",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1070,
+                "name": "门锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1071,
+                "name": "门锁扣",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1072,
+                "name": "门顶",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1073,
+                "name": "闭门器",
+                "objecttype": 144,
+                "is_consumable": 1
+            },
+            {
+                "id": 1074,
+                "name": "防火门锁",
+                "objecttype": 144,
+                "is_consumable": 1
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "name": "给排水",
+        "objects": [
+            {
+                "id": 1075,
+                "name": "下水管",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1076,
+                "name": "双管水龙头",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1077,
+                "name": "地漏",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1078,
+                "name": "水龙头",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1079,
+                "name": "洗手盆下水管",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1080,
+                "name": "疏通器",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1081,
+                "name": "软水管",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1082,
+                "name": "铜内弯头",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1083,
+                "name": "防臭下排水管",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1084,
+                "name": "集水盘",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1085,
+                "name": "马桶冲水按钮",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1086,
+                "name": "马桶按键",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1087,
+                "name": "马桶盖",
+                "objecttype": 145,
+                "is_consumable": 1
+            },
+            {
+                "id": 1088,
+                "name": "马桶进水阀",
+                "objecttype": 145,
+                "is_consumable": 1
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "name": "粉刷",
+        "objects": [
+            {
+                "id": 1089,
+                "name": "乳胶漆",
+                "objecttype": 146,
+                "is_consumable": 1
+            },
+            {
+                "id": 1090,
+                "name": "地台",
+                "objecttype": 146,
+                "is_consumable": 1
+            },
+            {
+                "id": 1091,
+                "name": "地坪油漆",
+                "objecttype": 146,
+                "is_consumable": 1
+            },
+            {
+                "id": 1092,
+                "name": "多乐士油漆",
+                "objecttype": 146,
+                "is_consumable": 1
+            },
+            {
+                "id": 1093,
+                "name": "油漆",
+                "objecttype": 146,
+                "is_consumable": 1
+            },
+            {
+                "id": 1094,
+                "name": "白漆",
+                "objecttype": 146,
+                "is_consumable": 1
+            },
+            {
+                "id": 1095,
+                "name": "矿棉板",
+                "objecttype": 146,
+                "is_consumable": 1
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "name": "空调",
+        "objects": [
+            {
+                "id": 1096,
+                "name": " 过滤网",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1097,
+                "name": "1.5P空调",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1098,
+                "name": "传感器",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1099,
+                "name": "保温棉",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1100,
+                "name": "保湿棉",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1101,
+                "name": "内机主板",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1102,
+                "name": "冷媒",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1103,
+                "name": "分体空调",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1104,
+                "name": "压缩机",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1105,
+                "name": "滤网",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1106,
+                "name": "电机轴承",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1107,
+                "name": "过滤网",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1108,
+                "name": "铝铂纸",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1109,
+                "name": "风口格栅",
+                "objecttype": 147,
+                "is_consumable": 1
+            },
+            {
+                "id": 1110,
+                "name": "风幕机",
+                "objecttype": 147,
+                "is_consumable": 1
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "name": "照明",
+        "objects": [
+            {
+                "id": 1163,
+                "name": "LED球泡",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1164,
+                "name": "LED盘灯",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1165,
+                "name": "LED筒灯",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1166,
+                "name": "地埋灯",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1167,
+                "name": "射灯",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1168,
+                "name": "投影仪灯泡",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1169,
+                "name": "灯",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1170,
+                "name": "灯开关",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1171,
+                "name": "灯控开关",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1172,
+                "name": "灯架",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1173,
+                "name": "灯泡",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1174,
+                "name": "灯管",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1175,
+                "name": "照明灯",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1176,
+                "name": "筒灯",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1177,
+                "name": "节能灯",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1178,
+                "name": "节能灯泡",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1179,
+                "name": "镜前灯",
+                "objecttype": 148,
+                "is_consumable": 1
+            },
+            {
+                "id": 1180,
+                "name": "镜灯",
+                "objecttype": 148,
+                "is_consumable": 1
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "name": "消防应急",
+        "objects": [
+            {
+                "id": 1181,
+                "name": "4公斤干粉灭火器",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1182,
+                "name": "二氧化碳灭火器",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1183,
+                "name": "二氧化碳灭火器箱子",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1184,
+                "name": "地贴安全出口",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1185,
+                "name": "安全出口地标",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1186,
+                "name": "安全出口地灯",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1187,
+                "name": "安全出口指示灯",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1188,
+                "name": "安全指示标识（方形）",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1189,
+                "name": "安全标识（大）",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1190,
+                "name": "安全标识（小）",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1191,
+                "name": "干粉灭火器",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1192,
+                "name": "干粉灭火器箱子",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1193,
+                "name": "应急灯",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1194,
+                "name": "应急电源",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1195,
+                "name": "消防地灯",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1196,
+                "name": "消防地贴标志",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1197,
+                "name": "消防指示灯",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1198,
+                "name": "消防按钮报警器",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1199,
+                "name": "消防标识",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1200,
+                "name": "火警报警器",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1201,
+                "name": "烟感",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1202,
+                "name": "自发光牌",
+                "objecttype": 149,
+                "is_consumable": 1
+            },
+            {
+                "id": 1203,
+                "name": "防毒面具",
+                "objecttype": 149,
+                "is_consumable": 1
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "name": "木工配件",
+        "objects": [
+            {
+                "id": 1204,
+                "name": "12厘广告钉帽",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1205,
+                "name": "12厘石膏板",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1206,
+                "name": "18厘生态板",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1207,
+                "name": "3*2.5护套线",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1208,
+                "name": "304-2.4厚拉丝不锈钢",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1209,
+                "name": "304不锈钢拉手",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1210,
+                "name": "4厘亚克力板",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1211,
+                "name": "4厘玻璃",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1212,
+                "name": "4寸万向轮",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1213,
+                "name": "4寸合页",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1214,
+                "name": "5厘纯白亚克力板",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1215,
+                "name": "5厘钢化玻璃",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1216,
+                "name": "5厘银镜",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1217,
+                "name": "PVC管件",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1218,
+                "name": "万向轮",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1219,
+                "name": "三节导轨",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1220,
+                "name": "三节轨道",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1221,
+                "name": "三角锉",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1222,
+                "name": "下夹",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1223,
+                "name": "五金配件",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1224,
+                "name": "十字批头",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1225,
+                "name": "叉衣架",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1226,
+                "name": "双嘴双控龙头",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1227,
+                "name": "双排底盒",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1228,
+                "name": "取孔器",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1229,
+                "name": "合页",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1230,
+                "name": "合页拉手",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1231,
+                "name": "喷淋头",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1232,
+                "name": "喷淋盖",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1233,
+                "name": "固定角铁",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1234,
+                "name": "地砖",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1235,
+                "name": "地脚线",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1236,
+                "name": "大纸巾盒",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1237,
+                "name": "夹板",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1238,
+                "name": "子母合页",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1239,
+                "name": "导视牌",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1240,
+                "name": "导轨",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1241,
+                "name": "封边条",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1242,
+                "name": "层板",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1243,
+                "name": "工具桶",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1244,
+                "name": "平弯合页",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1245,
+                "name": "开孔器",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1246,
+                "name": "开线槽",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1247,
+                "name": "弹簧合页",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1248,
+                "name": "弹簧合页直弯",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1249,
+                "name": "快速水泥",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1250,
+                "name": "护角",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1251,
+                "name": "护角条",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1252,
+                "name": "报警器",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1253,
+                "name": "抽屉导轨",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1254,
+                "name": "抽屉滑道",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1255,
+                "name": "抽屉轨道",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1256,
+                "name": "抽屉面板",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1257,
+                "name": "拉手",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1258,
+                "name": "拉杆",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1259,
+                "name": "拉码",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1260,
+                "name": "拖把夹",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1261,
+                "name": "拖把架",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1262,
+                "name": "挂衣杆",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1263,
+                "name": "排铰",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1264,
+                "name": "有机玻璃",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1265,
+                "name": "木工板",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1266,
+                "name": "木方",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1267,
+                "name": "板",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1268,
+                "name": "水泥",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1269,
+                "name": "涂料",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1270,
+                "name": "滑轮",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1271,
+                "name": "玻璃",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1272,
+                "name": "玻璃镜",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1273,
+                "name": "白板",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1274,
+                "name": "皮扣",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1275,
+                "name": "直弯合页",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1276,
+                "name": "直角弯",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1277,
+                "name": "砂轮片",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1278,
+                "name": "磨片",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1279,
+                "name": "磨花钻",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1280,
+                "name": "纸币盒",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1281,
+                "name": "线卡",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1282,
+                "name": "衣叉挂钩",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1283,
+                "name": "警示条",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1284,
+                "name": "踢脚线",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1285,
+                "name": "轨道",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1286,
+                "name": "轴承",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1287,
+                "name": "边条",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1288,
+                "name": "进口六角匙",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1289,
+                "name": "道具车轮",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1290,
+                "name": "遥控器",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1291,
+                "name": "钢化玻璃",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1292,
+                "name": "钥匙开关",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1293,
+                "name": "钥匙盒",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1294,
+                "name": "铁皮",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1295,
+                "name": "铁箱",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1296,
+                "name": "铁线",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1297,
+                "name": "铝合金护角条",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1298,
+                "name": "铰链",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1299,
+                "name": "铰链合页",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1300,
+                "name": "链条滑体",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1301,
+                "name": "锯条",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1302,
+                "name": "镀钉",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1303,
+                "name": "镜子",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1304,
+                "name": "镜面",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1305,
+                "name": "长排合页",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1306,
+                "name": "防撞条",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1307,
+                "name": "防撞贴",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1308,
+                "name": "防水镜子",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1309,
+                "name": "防火胶布",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1310,
+                "name": "隔墙饰面板",
+                "objecttype": 150,
+                "is_consumable": 1
+            },
+            {
+                "id": 1311,
+                "name": "麻花钻",
+                "objecttype": 150,
+                "is_consumable": 1
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "name": "低值易耗品",
+        "objects": [
+            {
+                "id": 1312,
+                "name": "502胶",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1313,
+                "name": "AB胶",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1314,
+                "name": "万能胶",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1315,
+                "name": "亚克力板",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1316,
+                "name": "免钉胶",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1317,
+                "name": "六角匙",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1318,
+                "name": "内三角钻头",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1319,
+                "name": "冲击钻头",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1320,
+                "name": "刀片",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1321,
+                "name": "双面胶",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1322,
+                "name": "地钉",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1323,
+                "name": "填缝剂",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1324,
+                "name": "墙砖胶",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1325,
+                "name": "广告钉",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1326,
+                "name": "强钉帽",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1327,
+                "name": "拉钉枪",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1328,
+                "name": "木工钻头",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1329,
+                "name": "液体钉",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1330,
+                "name": "灰铲",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1331,
+                "name": "玻璃胶",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1332,
+                "name": "生胶带",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1333,
+                "name": "石膏板",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1334,
+                "name": "石膏粉",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1335,
+                "name": "砂纸",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1336,
+                "name": "磁挂钩",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1337,
+                "name": "羊毛刷",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1338,
+                "name": "美固钉",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1339,
+                "name": "美工刀",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1340,
+                "name": "胶塞",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1341,
+                "name": "胶布",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1342,
+                "name": "胶条",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1343,
+                "name": "胶枪",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1344,
+                "name": "胶水",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1345,
+                "name": "胶边",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1346,
+                "name": "脚轮",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1347,
+                "name": "膨胀管螺丝垫片",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1348,
+                "name": "膨账管",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1349,
+                "name": "自攻螺丝",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1350,
+                "name": "螺丝",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1351,
+                "name": "螺母",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1352,
+                "name": "角码",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1353,
+                "name": "透明液体钉",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1354,
+                "name": "钻咀",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1355,
+                "name": "钻头",
+                "objecttype": 151,
+                "is_consumable": 1
+            },
+            {
+                "id": 1356,
+                "name": "除锈剂",
+                "objecttype": 151,
+                "is_consumable": 1
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "name": "其他",
+        "objects": []
+    },
+    {
+        "id": 154,
+        "name": "手机配件",
+        "objects": [
+            {
+                "id": 1368,
+                "name": "oppo手机",
+                "objecttype": 154,
+                "is_consumable": 1
+            }
+        ]
+    },
+    {
+        "id": 159,
+        "name": "资产测试",
+        "objects": []
+    },
+    {
+        "id": 160,
+        "name": "道具11111",
+        "objects": []
+    },
+    {
+        "id": 161,
+        "name": "AAA",
+        "objects": [
+            {
+                "id": 1379,
+                "name": "BBB",
+                "objecttype": 161,
+                "is_consumable": 1
+            }
+        ]
+    },
+    {
+        "id": 162,
+        "name": "AA",
+        "objects": [
+            {
+                "id": 1380,
+                "name": "BB",
+                "objecttype": 162,
+                "is_consumable": 1
+            }
+        ]
+    }
+]
