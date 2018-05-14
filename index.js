@@ -43,6 +43,7 @@ app.get('/materialtype_update', function (req, res) {
   })
 })
 
+// 查询
 app.get('/materiallist', function (req, res) {
   const id = req.query.id
   MateriallistModel.findOne({id:id}, function (err, item) {
@@ -55,9 +56,21 @@ app.get('/materiallist', function (req, res) {
   })
 })
 
+// 添加
 app.get('/materiallist_add', function (req, res) {
   const {id, name, brand, unit} = req.query
   MateriallistModel.updateOne({id:id}, {$push:{data:{id:1000, name:name, is_ordered:0, rfid_sign:null, specification:'DEMO2', brand:brand, unit:unit}}}, function (err, item) {
+    if(!err){
+      res.send({data:item})
+    }
+  })
+})
+
+// 删除
+app.get('/materiallist_del', function (req, res) {
+  const {pId, cId} = req.query
+  console.log(typeof pId)
+  MateriallistModel.updateOne({id:parseInt(pId)}, {$pull:{data:{id:parseInt(cId)}}}, function (err, item) {
     if(!err){
       res.send({data:item})
     }
