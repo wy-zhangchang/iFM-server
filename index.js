@@ -77,6 +77,17 @@ app.get('/materiallist_del', function (req, res) {
   })
 })
 
+// 编辑
+app.get('/materiallist_mod', function (req, res) {
+  console.log(JSON.stringify(req.query))
+  const {pId, id, name, brand, unit} = req.query
+  MateriallistModel.updateOne({id:parseInt(pId)}, {$set:{data:{id, name, is_ordered:1, rfid_sign:'demo', specification:'DEMO1', brand, unit}}}, function (err, item) {
+    if(!err){
+      res.send({data:item})
+    }
+  })
+})
+
 app.listen('8000', function () {
   console.log('服务器启动成功')
 })

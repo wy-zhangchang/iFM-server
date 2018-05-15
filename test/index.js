@@ -40,7 +40,13 @@ const MateriallistModel = require('../models/materiallist')
   }
 })*/
 
-MateriallistModel.updateOne({id:996}, {$pull:{data:{id:600}}}, function (err, item) {
+/*MateriallistModel.updateOne({id:996}, {$pull:{data:{id:600}}}, function (err, item) {
+  if(!err){
+    console.log(item)
+  }
+})*/
+
+MateriallistModel.updateOne({id:996}, {$set:{data:{id:79, name:'DEMO1', is_ordered:1, rfid_sign:'demo', specification:'DEMO1', brand:'DEMO1', unit:'DEMO1'}}}, function (err, item) {
   if(!err){
     console.log(item)
   }
